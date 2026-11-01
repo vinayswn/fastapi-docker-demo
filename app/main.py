@@ -24,5 +24,5 @@ def health():
 def hello(name: str):
     print(f"Hello>>>>>>>>>>>>>>> {name}")
     return {
-        "message": f"Hello VINNAAAA, {name}!"
+        "message": f"Hello VINNAAAA-Test, {name}!"
     }
